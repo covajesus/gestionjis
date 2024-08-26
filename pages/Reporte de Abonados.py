@@ -6,7 +6,7 @@ import locale
 import plotly.graph_objects as go
 
 # Configuración de la conexión a la base de datos utilizando SQLAlchemy
-engine = create_engine('mysql+pymysql://jysparki_jis:Jis2020!@103.72.78.28/jysparki_jis') 
+engine = create_engine('mysql+pymysql://jysparki_admin:Admin2024$!@216.137.190.82/jysparki_jis')
 
 st.header("Reporte de Abonados") 
 
