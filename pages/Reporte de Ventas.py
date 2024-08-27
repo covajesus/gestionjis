@@ -19,9 +19,9 @@ engine = create_engine('mysql+pymysql://jysparki_admin:Admin2024$!@216.137.190.8
 
 # # Configuración de la conexión a la base de datos
 # connection = pymysql.connect(
-#     host='103.72.78.28',
-#     user='jysparki_jis',
-#     password='Jis2020!',
+#     host='216.137.190.82',
+#     user='jysparki_admin',
+#     password='admin2024$',
 #     db='jysparki_jis',
 #     charset='utf8mb4',
 #     cursorclass=pymysql.cursors.DictCursor
